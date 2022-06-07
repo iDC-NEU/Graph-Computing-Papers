@@ -23,7 +23,7 @@ This is a project to collect and share related papers on graph processing by the
 
 **2016**
 
-1. Gemini: A Computation-Centric Distributed Graph Processing System. [OSDI 2016] [[paper](https://dl.acm.org/doi/10.5555/3026877.3026901)] [[code](https://github.com/thu-pacman/GeminiGraph)]
+1. Gemini: A Computation-Centric Distributed Graph Processing System. [OSDI 2016] [[paper](https://dl.acm.org/doi/10.5555/3026877.3026901)] [[code](https://github.com/thu-pacman/GeminiGraph)] [[slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi16_slides_zhu.pdf)]
 2. GRAPE: parallelizing sequential graph computations.  [OSDI 2016] [[paper](https://dl.acm.org/doi/10.14778/3137765.3137801)] [[code](https://github.com/alibaba/libgrape-lite)]
 
 
@@ -70,7 +70,7 @@ This is a project to collect and share related papers on graph processing by the
 **2021**
 
 
-  1.  JetStream: Graph Analytics on Streaming Data with Event-Driven Hardware Accelerator. [MICRO 2021] [[paper](https://dl.acm.org/doi/abs/10.1145/3466752.3480126)] [code] [[slide](./slides/JetStream.pptx)]
+  1.  JetStream: Graph Analytics on Streaming Data with Event-Driven Hardware Accelerator. [MICRO 2021] [[paper](https://dl.acm.org/doi/abs/10.1145/3466752.3480126)] [code] [[slides](./slides/JetStream.pptx)]
   2.  DepGraph: A Dependency-Driven Accelerator for Efficient Iterative Graph Processing. [HPCA 2021] [[paper](https://ieeexplore.ieee.org/abstract/document/9407071)] [code]
 
 
