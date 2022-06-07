@@ -65,7 +65,7 @@ This is a project to collect and share related papers on graph processing by the
 
 **2020**
 
- 	1.  GraphPulse: An Event-Driven Hardware Accelerator for Asynchronous Graph Processing. [MICRO 2020] [[paper](https://ieeexplore.ieee.org/document/9251946)] [code]
+1. GraphPulse: An Event-Driven Hardware Accelerator for Asynchronous Graph Processing. [MICRO 2020] [[paper](https://ieeexplore.ieee.org/document/9251946)] [code]
 
 **2021**
 
