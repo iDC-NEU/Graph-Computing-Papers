@@ -61,6 +61,7 @@ This is a project to collect and share related papers on graph processing by the
 **2017**
 
 1.A Distributed Multi-GPU System for Fast Graph Processing. [VLDB 2017] [[paper](http://www.vldb.org/pvldb/vol11/p297-jia.pdf)]
+
 **2019**
 
 1. GPU-based Graph Traversal on Compressed Graphs. [SIGMOD 2019] [[paper](https://dl.acm.org/doi/pdf/10.1145/3299869.3319871)]
