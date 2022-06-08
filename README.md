@@ -59,8 +59,9 @@ This is a project to collect and share related papers on graph processing by the
 
 ## <span id = "GPU/FPGA-Static-Graph-Processing-System">Static Graph Processing System</span>
 
+**2021**
 
-
+1. Ascetic: Enhancing Cross-Iterations Data Efficiency in Out-of-Memory Graph Processing on GPUs. [ICPP 2021] [[paper](https://dl.acm.org/doi/pdf/10.1145/3472456.3472457)] [[code]](https://github.com/NKU-EmbeddedSystem/Ascetic.git)
 ## <span id = "GPU/FPGA-Dynamic-Graph-Processing-System">Dynamic Graph Processing System</span>
 
 **2020**
