@@ -58,10 +58,24 @@ This is a project to collect and share related papers on graph processing by the
 # <span id = "GPU/FPGA-Graph-Processing-System-Paper">GPU/FPGA-Graph Processing System Paper</span>
 
 ## <span id = "GPU/FPGA-Static-Graph-Processing-System">Static Graph Processing System</span>
+**2017**
+
+1.A Distributed Multi-GPU System for Fast Graph Processing. [VLDB 2017] [[paper](http://www.vldb.org/pvldb/vol11/p297-jia.pdf)]
+**2019**
+
+1. GPU-based Graph Traversal on Compressed Graphs. [SIGMOD 2019] [[paper](https://dl.acm.org/doi/pdf/10.1145/3299869.3319871)]
+2. SEP-Graph: Finding Shortest Execution Paths for Graph Processing under a Hybrid Framework on GPU. [PPOPP 2019] [[paper](https://dl.acm.org/doi/pdf/10.1145/3293883.3295733)] [[code](https://github.com/SEP-Graph/sep-graph.git)]
+
+**2020**
+
+1. Scaph: Scalable GPU-Accelerated Graph Processing with Value-Driven Differential Scheduling. [ATC 2020] [[paper](https://www.usenix.org/system/files/atc20-zheng.pdf)] [[code](https://github.com/ftxj/Scaph.git)]
+2. Subway: Minimizing Data Transfer during Out-of-GPU-Memory Graph Processing. [EuroSys 2020] [[paper](https://dl.acm.org/doi/pdf/10.1145/3342195.3387537)] [[code](https://github.com/AutomataLab/Subway.git)]
 
 **2021**
 
-1. Ascetic: Enhancing Cross-Iterations Data Efficiency in Out-of-Memory Graph Processing on GPUs. [ICPP 2021] [[paper](https://dl.acm.org/doi/pdf/10.1145/3472456.3472457)] [[code]](https://github.com/NKU-EmbeddedSystem/Ascetic.git)
+1. Ascetic: Enhancing Cross-Iterations Data Efficiency in Out-of-Memory Graph Processing on GPUs. [ICPP 2021] [[paper](https://dl.acm.org/doi/pdf/10.1145/3472456.3472457)] [[code](https://github.com/NKU-EmbeddedSystem/Ascetic.git)]
+2. EMOGI: Efficient Memory-access for Out-of-memory Graph-traversal in GPUs.  [VLDB 2021] [[paper](http://www.vldb.org/pvldb/vol14/p114-min.pdf)] [[code](https://github.com/illinois-impact/EMOGI.git)]
+3. Self-adaptive Graph Traversal on GPUs. [SIGMOD 2021] [[paper](https://dl.acm.org/doi/pdf/10.1145/3448016.3457279)]
 ## <span id = "GPU/FPGA-Dynamic-Graph-Processing-System">Dynamic Graph Processing System</span>
 
 **2020**
