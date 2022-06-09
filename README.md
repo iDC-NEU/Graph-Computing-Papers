@@ -49,10 +49,12 @@ This is a project to collect and share related papers on graph processing by the
 
 **2021**
 
-1.  Ingress: Automating incremental graph processing with flexible memoization.  [VLDB 2021] [[paper](https://dl.acm.org/doi/10.14778/3461535.3461550)] [code]
+1. Ingress: Automating incremental graph processing with flexible memoization.  [VLDB 2021] [[paper](https://dl.acm.org/doi/10.14778/3461535.3461550)] [code]
 2.  RisGraph: A Real-Time Streaming System for Evolving Graphs to Support Sub-millisecond Per-update Analysis at Millions Ops/s.  [SIGMOD 2021] [[paper](https://dl.acm.org/doi/10.1145/3448016.3457263)] [[code](https://github.com/thu-pacman/RisGraph)]
 3. Tripoline: generalized incremental graph processing via graph triangle inequality.  [EuroSys 2021] [[paper](https://dl.acm.org/doi/10.1145/3447786.3456226)] [code]
 
+**2022**
+1. TDGraph: a topology-driven accelerator for high-performance streaming graph processing. [ISCA 2022] [[paper](https://dl.acm.org/doi/abs/10.1145/3470496.3527409)] [code]
 
 
 # <span id = "GPU/FPGA-Graph-Processing-System-Paper">GPU/FPGA-Graph Processing System Paper</span>
