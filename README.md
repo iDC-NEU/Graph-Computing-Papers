@@ -90,6 +90,7 @@ This is a project to collect and share related papers on graph processing by the
 
   1.  JetStream: Graph Analytics on Streaming Data with Event-Driven Hardware Accelerator. [MICRO 2021] [[paper](https://dl.acm.org/doi/abs/10.1145/3466752.3480126)] [code] [[slides](./slides/JetStream.pptx)]
   2.  DepGraph: A Dependency-Driven Accelerator for Efficient Iterative Graph Processing. [HPCA 2021] [[paper](https://ieeexplore.ieee.org/abstract/document/9407071)] [code]
+  3.  Improving Streaming Graph Processing Performance using Input Knowledge. [MICRO 2021] [[paper](https://dl.acm.org/doi/10.1145/3466752.3480096)] [code] [[slides](./slides/micro21-ABR.pptx)]
 
 
 
