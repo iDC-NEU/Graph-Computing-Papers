@@ -1,6 +1,7 @@
 # Graph-Computing-Papers
 This is a project to collect and share related papers on graph processing by the iDC-NEU team. Papers can be systematic or algorithmic. As long as you feel fruitful, you can share them with us! Please add papers in the order of paper name, published conference/journal, paper link and code link(if open source).
 # Content
+- [Disk-based Graph Processing Systems](#Disk-based-Graph-Processing-System)
 - [Graph Processing System Paper](#Graph-Processing-System-Paper)
   
   - [Static Graph Processing System](#Static-Graph-Processing-System)
@@ -13,7 +14,19 @@ This is a project to collect and share related papers on graph processing by the
 
 - [Graph Processing  Algorithmic Paper](#GNN-Algorithmic-Paper)
 
-  
+# <span id = "Disk-based-Graph-Processing-System">Disk-based Graph Processing System</span>
+
+GraphChi:Large-Scale Graph Computation on Just a PC. Kyrola, Aapo, Guy Blelloch, and Carlos Guestrin. 10th USENIX Symposium on Operating Systems Design and Implementation (OSDI 12). 2012.
+
+X-stream: Edge-centric graph processing using streaming partitions. Roy, Amitabha, Ivo Mihailovic, and Willy Zwaenepoel. Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles. 2013.
+
+GridGraph: Large-Scale Graph Processing on a Single Machine Using 2-Level Hierarchical Partitioning. Zhu, Xiaowei, Wentao Han, and Wenguang Chen. 2015 USENIX Annual Technical Conference. 2015.
+
+TurboGraph: a fast parallel graph engine handling billion-scale graphs in a single PC. Han, Wook-Shin, et al.  Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining. 2013.
+
+FlashGraph: Processing {Billion-Node} Graphs on an Array of Commodity SSDs. Zheng, Da, Disa Mhembere, Randal Burns, Joshua Vogelstein, Carey E. Priebe, and Alexander S. Szalay. In 13th USENIX Conference on File and Storage Technologies, 2015.
+
+Chaos: Scale-out graph processing from secondary storage. Roy, Amitabha, Laurent Bindschaedler, Jasmina Malicevic, and Willy Zwaenepoel. In Proceedings of the 25th Symposium on Operating Systems Principles, pp. 410-424. 2015.
 
 # <span id = "Graph-Processing-System-Paper">Graph Processing System Paper</span>
 ## <span id = "Static-Graph-Processing-System">Static Graph Processing System</span>
