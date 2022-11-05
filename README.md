@@ -109,5 +109,10 @@ Chaos: Scale-out graph processing from secondary storage. Roy, Amitabha, Laurent
 
 # <span id = "Graph-Processing-Algorithmic-Paper">Graph Processing  Algorithmic Paper</span>
 
+**2022**
+
+
+  1.  On Scalable Computation of Graph Eccentricities. [SIGMOD 2022] [[paper](https://dl.acm.org/doi/10.1145/3514221.3517874)] [code] [[slides]]
+
 
 
