@@ -70,6 +70,9 @@ Chaos: Scale-out graph processing from secondary storage. Roy, Amitabha, Laurent
 1. TDGraph: a topology-driven accelerator for high-performance streaming graph processing. [ISCA 2022] [[paper](https://dl.acm.org/doi/abs/10.1145/3470496.3527409)] [code]
 
 
+**2022**
+1. Sortledton: a Universal, Transactional Graph Data Structure. [VLDB 2022] [[paper](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)] [[code](https://gitlab.db.in.tum.de/per.fuchs/sortledton/)]
+
 # <span id = "GPU/FPGA-Graph-Processing-System-Paper">GPU/FPGA-Graph Processing System Paper</span>
 
 ## <span id = "GPU/FPGA-Static-Graph-Processing-System">Static Graph Processing System</span>
