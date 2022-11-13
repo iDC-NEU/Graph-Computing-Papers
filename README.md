@@ -116,6 +116,6 @@ Chaos: Scale-out graph processing from secondary storage. Roy, Amitabha, Laurent
 
 
   1.  On Scalable Computation of Graph Eccentricities. [SIGMOD 2022] [[paper](https://dl.acm.org/doi/10.1145/3514221.3517874)] [code] [[slides](./slides/IFECC.pptx)]
-
+  2.  LOTUS: locality optimizing triangle counting. [PP0PP 2022] [[paper](https://dl.acm.org/doi/10.1145/3503221.3508402)] [code] [[slides](./slides/LOTUS.pptx)]
 
 
