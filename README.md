@@ -28,6 +28,8 @@ FlashGraph: Processing {Billion-Node} Graphs on an Array of Commodity SSDs. Zhen
 
 Chaos: Scale-out graph processing from secondary storage. Roy, Amitabha, Laurent Bindschaedler, Jasmina Malicevic, and Willy Zwaenepoel. In Proceedings of the 25th Symposium on Operating Systems Principles, pp. 410-424. 2015.
 
+Lumos: Dependency-Driven Disk-based Graph Processing. Keval Vora, Simon Fraser University. 2019 USENIX Annual Technical Conference (**USENIX ATC 19**). 2019. [[paper](https://www.usenix.org/system/files/atc19-vora.pdf)]
+
 # <span id = "Graph-Processing-System-Paper">Graph Processing System Paper</span>
 ## <span id = "Static-Graph-Processing-System">Static Graph Processing System</span>
 **2012**
