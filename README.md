@@ -68,6 +68,8 @@ Chaos: Scale-out graph processing from secondary storage. Roy, Amitabha, Laurent
 
 **2022**
 1. TDGraph: a topology-driven accelerator for high-performance streaming graph processing. [ISCA 2022] [[paper](https://dl.acm.org/doi/abs/10.1145/3470496.3527409)] [code]
+2. GraphFly: Efficient Asynchronous Streaming Graphs Processing via Dependency-Flow. [SC 2022] [[paper](https://www.computer.org/csdl/proceedings-article/sc/2022/544400a632/1I0bT0fhTqM)] [[code](https://github.com/GFLY-PAPER/GraphFly)]
+
 
 
 **2022**
