@@ -68,12 +68,9 @@ Chaos: Scale-out graph processing from secondary storage. Roy, Amitabha, Laurent
 
 **2022**
 1. TDGraph: a topology-driven accelerator for high-performance streaming graph processing. [ISCA 2022] [[paper](https://dl.acm.org/doi/abs/10.1145/3470496.3527409)] [code]
-2. GraphFly: Efficient Asynchronous Streaming Graphs Processing via Dependency-Flow. [SC 2022] [[paper](https://www.computer.org/csdl/proceedings-article/sc/2022/544400a632/1I0bT0fhTqM)] [[code](https://github.com/GFLY-PAPER/GraphFly)]
+2. GraphFly: Efficient Asynchronous Streaming Graphs Processing via Dependency-Flow. [SC 2022] [[paper](https://www.computer.org/csdl/proceedings-article/sc/2022/544400a632/1I0bT0fhTqM)] [[code](https://github.com/GFLY-PAPER/GraphFly)] [[slides](./slides/SC20-graphfly.pptx)]
 
 
-
-**2022**
-1. Sortledton: a Universal, Transactional Graph Data Structure. [VLDB 2022] [[paper](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)] [[code](https://gitlab.db.in.tum.de/per.fuchs/sortledton/)]
 
 # <span id = "GPU/FPGA-Graph-Processing-System-Paper">GPU/FPGA-Graph Processing System Paper</span>
 
@@ -119,5 +116,8 @@ Chaos: Scale-out graph processing from secondary storage. Roy, Amitabha, Laurent
 
   1.  On Scalable Computation of Graph Eccentricities. [SIGMOD 2022] [[paper](https://dl.acm.org/doi/10.1145/3514221.3517874)] [code] [[slides](./slides/IFECC.pptx)]
   2.  LOTUS: locality optimizing triangle counting. [PP0PP 2022] [[paper](https://dl.acm.org/doi/10.1145/3503221.3508402)] [code] [[slides](./slides/LOTUS.pptx)]
+  **2022**
+  3. Sortledton: a Universal, Transactional Graph Data Structure. [VLDB 2022] [[paper](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)] [[code](https://gitlab.db.in.tum.de/per.fuchs/sortledton/)]
+
 
 
