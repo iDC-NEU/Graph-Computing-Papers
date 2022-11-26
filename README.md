@@ -1,5 +1,5 @@
 # Graph-Computing-Papers
-This is a project to collect and share related papers on graph processing by the iDC-NEU team. Papers can be systematic or algorithmic. As long as you feel fruitful, you can share them with us! Please add papers in the order of paper name, published conference/journal, paper link and code link(if open source).
+This is a project to collect and share related papers on graph processing by the iDC-NEU team. Papers can be systematic or algorithmic. As long as you feel fruitful, you can share them with us! Please add papers in the order of paper name, published conference/journal, paper link, code link(if open source), and slides (if you have one).
 # Content
 - [Disk-based Graph Processing Systems](#Disk-based-Graph-Processing-System)
 - [Graph Processing System Paper](#Graph-Processing-System-Paper)
