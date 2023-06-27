@@ -43,7 +43,7 @@ Lumos: Dependency-Driven Disk-based Graph Processing. Keval Vora, Simon Fraser U
 
 **2023**
 
-1.MiniGraph: Querying Big Graphs with a Single Machine. [VLDB 2023] [[paper](https://www.vldb.org/pvldb/vol16/p2172-liu.pdf)] [[code](https://github.com/SICS-Fundamental-Research-Center/MiniGraph)] [[slides](./slides/MiniGraph.pptx)]
+1. MiniGraph: Querying Big Graphs with a Single Machine. [VLDB 2023] [[paper](https://www.vldb.org/pvldb/vol16/p2172-liu.pdf)] [[code](https://github.com/SICS-Fundamental-Research-Center/MiniGraph)] [[slides](./slides/MiniGraph.pptx)]
 
 ## <span id = "Dynamic-Graph-Processing-System">Dynamic Graph Processing System</span>
 
@@ -81,7 +81,7 @@ Lumos: Dependency-Driven Disk-based Graph Processing. Keval Vora, Simon Fraser U
 ## <span id = "GPU/FPGA-Static-Graph-Processing-System">Static Graph Processing System</span>
 **2017**
 
-1.A Distributed Multi-GPU System for Fast Graph Processing. [VLDB 2017] [[paper](http://www.vldb.org/pvldb/vol11/p297-jia.pdf)]
+1. A Distributed Multi-GPU System for Fast Graph Processing. [VLDB 2017] [[paper](http://www.vldb.org/pvldb/vol11/p297-jia.pdf)]
 
 **2019**
 
