@@ -41,7 +41,9 @@ Lumos: Dependency-Driven Disk-based Graph Processing. Keval Vora, Simon Fraser U
 1. Gemini: A Computation-Centric Distributed Graph Processing System. [OSDI 2016] [[paper](https://dl.acm.org/doi/10.5555/3026877.3026901)] [[code](https://github.com/thu-pacman/GeminiGraph)] [[slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi16_slides_zhu.pdf)]
 2. GRAPE: parallelizing sequential graph computations.  [OSDI 2016] [[paper](https://dl.acm.org/doi/10.14778/3137765.3137801)] [[code](https://github.com/alibaba/libgrape-lite)]
 
+**2023**
 
+1.MiniGraph: Querying Big Graphs with a Single Machine. [VLDB 2023] [[paper](https://www.vldb.org/pvldb/vol16/p2172-liu.pdf)] [[code](https://github.com/SICS-Fundamental-Research-Center/MiniGraph)] [[slides](./slides/MiniGraph.pptx)]
 
 ## <span id = "Dynamic-Graph-Processing-System">Dynamic Graph Processing System</span>
 
