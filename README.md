@@ -44,6 +44,7 @@ Lumos: Dependency-Driven Disk-based Graph Processing. Keval Vora, Simon Fraser U
 **2023**
 
 1. MiniGraph: Querying Big Graphs with a Single Machine. [VLDB 2023] [[paper](https://www.vldb.org/pvldb/vol16/p2172-liu.pdf)] [[code](https://github.com/SICS-Fundamental-Research-Center/MiniGraph)] [[slides](./slides/MiniGraph.pptx)]
+2. GeaFlow: A Graph Extended and Accelerated Dataflow System. [SIGMOD 2023] [[paper](https://dl.acm.org/doi/10.1145/3589771)] [[code](https://github.com/TuGraph-family/tugraph-analytics/tree/master)]
 
 ## <span id = "Dynamic-Graph-Processing-System">Dynamic Graph Processing System</span>
 
