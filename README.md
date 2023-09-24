@@ -75,7 +75,10 @@ Lumos: Dependency-Driven Disk-based Graph Processing. Keval Vora, Simon Fraser U
 1. TDGraph: a topology-driven accelerator for high-performance streaming graph processing. [ISCA 2022] [[paper](https://dl.acm.org/doi/abs/10.1145/3470496.3527409)] [code]
 2. GraphFly: Efficient Asynchronous Streaming Graphs Processing via Dependency-Flow. [SC 2022] [[paper](https://www.computer.org/csdl/proceedings-article/sc/2022/544400a632/1I0bT0fhTqM)] [[code](https://github.com/GFLY-PAPER/GraphFly)] [[slides](./slides/SC20-graphfly.pptx)]
 
+**2023**
 
+1. What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines. [VLDB 2023] [[paper](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf)] [[slides](./slides/NVMeStorage.pptx)]
+2. Bridging the Gap between Relational OLTP and Graph-based OLAP. [USENIX ATC 2023] [[paper](https://www.usenix.org/system/files/atc23-shen.pdf)] [[slides](./slides/gart.pptx)]
 
 # <span id = "GPU/FPGA-Graph-Processing-System-Paper">GPU/FPGA-Graph Processing System Paper</span>
 
